@@ -1,4 +1,4 @@
-xây dựng ứng dụng quản lý bán hàng
+xây dựng ứng dụng quản lý bán hàng                                                                                                                                   
 Giao diện cửa sổ JavaFX.
 có chức năng quản lý hàng hóa
 thêm sửa xóa hàng 
