@@ -1,7 +1,7 @@
 <h1>Nhóm 17 Ứng Dụng quản lý bán hàng</h1>
 <h2>Thành Viên</h2>
 <p>Trần Tiến Đạt 23010200</p>
-<p>Nguyễn Anh Vũ</p>
+<p>Nguyễn Anh Vũ 23010262</p>
 <p>Vũ Minh Quang</p>
 <h2> Các chức năng chính </h2>                                                                                                                         
 <p>Giao diện cửa sổ JavaFX. </p>                                                                                                                                           
