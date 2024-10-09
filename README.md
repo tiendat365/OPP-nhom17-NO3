@@ -2,7 +2,7 @@
 <h2>Thành Viên</h2>
 <p>Trần Tiến Đạt 23010200</p>
 <p>Nguyễn Anh Vũ 23010262</p>
-<p>Vũ Minh Quang</p>
+<p>Vũ Minh Quang 23010202</p>
 <h2> Các chức năng chính </h2>                                                                                                                         
 <p>Giao diện cửa sổ JavaFX. </p>                                                                                                                                           
 <p>có chức năng quản lý hàng hóa   </p>                                                                                                                                      
