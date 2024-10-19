@@ -25,6 +25,9 @@
 <p>Giao diện chính</p>
 
 ![chinh](https://github.com/user-attachments/assets/6767d03b-bb75-4862-b5ba-52427bd917fd)
+<p>thê sản phẩm</p>
+
+![themsanpham](https://github.com/user-attachments/assets/5fec50be-2117-403a-8dff-f0278bb223a3)
 
 <P>Đặt hàng</P>
 
